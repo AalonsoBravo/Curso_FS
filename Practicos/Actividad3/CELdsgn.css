@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(237,236,233);
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(119,85,72);
+}
+
+h1{
+    color: rgb(119,85,72);
+}
+
+h3{
+    background-color: rgb(119,85,72);
+    color: rgb(225,212,207);
+}
+
+.H3PE {
+    color: rgb(216,176,59);
+}
+
+.imgcamping {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.headerlist ins {
+    color: rgb(239,109,36);
+}
+
+.headerlist {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.Alquileres ins {
+    color: rgb(239,109,36);
+}
+
+.NED-A {
+    color: rgb(58,171,196);
+}
+
+.NED-R {
+    color: rgb(238,79,82);
+}
+
+.PE ins {
+    color: rgb(239,109,36);
+}
